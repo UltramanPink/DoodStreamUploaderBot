@@ -20,19 +20,19 @@
     "repository" : "https://github.com/AJTimePyro/DoodStreamUploaderBot",
     "env" : {
         "BOT_TOKEN" : {
-            "description" : "Get From https://t.me/BotFather"
+            "description" : "6041863938:AAHCB3Gl3NrVHMqmJ4FYq6vb-y1zqRoAPW4"
         },
         "API_ID" : {
-            "description" : "Get From https://my.telegram.org"
+            "description" : "12594568"
         },
         "API_HASH" : {
-            "description" : "Get From https://my.telegram.org"
+            "description" : "e87df78fb11a7a8c2e05de4b7b92517d"
         },
         "MONGO_STR" : {
-            "description" : "Get From MongoDB Atlas."
+            "description" : "mongodb+srv://indrabusiness00:<password>@cluster0.borksk6.mongodb.net/?retryWrites=true&w=majority"
         },
         "OWNER_ID" : {
-            "description" : "Your Telegram User ID"
+            "description" : "1029220452"
         }
     },
     "stack" : "heroku-20",
